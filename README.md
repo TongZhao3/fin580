@@ -67,7 +67,13 @@ This shows each module contributes to system robustness.
 
 ---
 
-## Run
+## How to Run
+
+1. Prepare data:
+   - `prices.csv`
+   - `signals.csv`
+
+2. Run backtest:
 
 ```bash
 python backtester.py
